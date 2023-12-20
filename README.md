@@ -1,4 +1,4 @@
-# crud-despesas-jdbc
+# crud-expenses-jdbc
 CRUD de Despesas usando JDBC
 
 # Setup
